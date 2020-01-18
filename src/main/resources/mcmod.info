@@ -1,0 +1,16 @@
+]
+{
+  "modid": "kk",
+  "name": "Key Kraft",
+  "description": "The mod required for the minigame, Key Kraft.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Sraavan Suryadevara and Dhruv Karai of team "The Oracles"."],
+  "credits": "Oakridge, for hosting this event.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
